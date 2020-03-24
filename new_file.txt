@@ -1,6 +1,2 @@
-git tex
-B
-D
-C
-D
-xxccvv    t
+git test
+test test test 
