@@ -1,4 +1,9 @@
-git test
+igit test
 test test test
 modifying a file
+<<<<<<< HEAD
 modifying a file 2 
+=======
+modifying a file 3
+ 
+>>>>>>> 3
